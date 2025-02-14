@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/power-puls/static/css/main.7acaea2f.css",
+    "main.js": "/power-puls/static/js/main.07d3183d.js",
+    "index.html": "/power-puls/index.html",
+    "main.7acaea2f.css.map": "/power-puls/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/power-puls/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
